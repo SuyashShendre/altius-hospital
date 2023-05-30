@@ -1687,9 +1687,6 @@ function App() {
                     alt="about"
                   />
             </a>
-            <p class="mt-2 text-sm text-gray-500">
-              Air plant banjo lyft occupy retro adaptogen indego
-            </p>
           </div>
           <div class="flex-grow flex flex-wrap md:pl-20 -mb-10 md:mt-0 mt-10 md:text-left ">
             
