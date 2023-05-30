@@ -15,15 +15,15 @@ function App() {
             />
           </a>
           <nav className="md:ml-auto md:mr-auto flex flex-wrap items-center text-base justify-center">
-          <div class="group inline-block relative mr-2">
+            <div className="group inline-block relative mr-2">
               <a className="mr-5 hover:text-gray-900 flex items-center">
                 About Us
-                <span class="ml-2 w-2">
+                <span className="ml-2 w-2">
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
                     viewBox="0 0 20 20"
                     fill="currentColor"
-                    class="h-5 w-5"
+                    className="h-5 w-5"
                   >
                     <path
                       fill-rule="evenodd"
@@ -33,87 +33,87 @@ function App() {
                   </svg>
                 </span>
               </a>
-              
-              <ul class="absolute hidden text-gray-700 pt-1 group-hover:block w-[500px]">
-              <div class="grid grid-cols-2 divide-x">
 
-  <div><li class="">
-                  <a
-                    class="rounded-t bg-gray-200 hover:bg-gray-400 py-2 px-4 block whitespace-no-wrap"
-                    href="#"
-                  >
-                    Dr. B. Ramesh
-                  </a>
-                </li></div>
-  <div><li class="">
-                  <a
-                    class="bg-gray-200 hover:bg-gray-400 py-2 px-4 block whitespace-no-wrap"
-                    href="#"
-                  >
-                    Management
-                  </a>
-                </li></div>
-                <div><li class="">
-                  <a
-                    class="rounded-b bg-gray-200 hover:bg-gray-400 py-2 px-4 block whitespace-no-wrap"
-                    href="#"
-                  >
-                    Vision & Mission
-                  </a>
-                </li></div>
-                <div>
-                <li class="">
-                  <a
-                    class="rounded-b bg-gray-200 hover:bg-gray-400 py-2 px-4 block whitespace-no-wrap"
-                    href="#"
-                  >
-                    Careers
-                  </a>
-                </li>
+              <ul className="absolute hidden text-gray-700 pt-1 group-hover:block w-[500px]">
+                <div className="grid grid-cols-2 divide-x">
+
+                  <div><li className="">
+                    <a
+                      className="rounded-t bg-gray-200 hover:bg-gray-400 py-2 px-4 block whitespace-no-wrap"
+                      href="#"
+                    >
+                      Dr. B. Ramesh
+                    </a>
+                  </li></div>
+                  <div><li className="">
+                    <a
+                      className="bg-gray-200 hover:bg-gray-400 py-2 px-4 block whitespace-no-wrap"
+                      href="#"
+                    >
+                      Management
+                    </a>
+                  </li></div>
+                  <div><li className="">
+                    <a
+                      className="rounded-b bg-gray-200 hover:bg-gray-400 py-2 px-4 block whitespace-no-wrap"
+                      href="#"
+                    >
+                      Vision & Mission
+                    </a>
+                  </li></div>
+                  <div>
+                    <li className="">
+                      <a
+                        className="rounded-b bg-gray-200 hover:bg-gray-400 py-2 px-4 block whitespace-no-wrap"
+                        href="#"
+                      >
+                        Careers
+                      </a>
+                    </li>
+                  </div>
+                  <div>
+                    <li className="">
+                      <a
+                        className="rounded-b bg-gray-200 hover:bg-gray-400 py-2 px-4 block whitespace-no-wrap"
+                        href="#"
+                      >
+                        CSR
+                      </a>
+                    </li>
+                  </div>
+                  <div>
+                    <li className="">
+                      <a
+                        className="rounded-b bg-gray-200 hover:bg-gray-400 py-2 px-4 block whitespace-no-wrap"
+                        href="#"
+                      >
+                        Major News
+                      </a>
+                    </li>
+                  </div>
+                  <div>
+                    <li className="">
+                      <a
+                        className="rounded-b bg-gray-200 hover:bg-gray-400 py-2 px-4 block whitespace-no-wrap"
+                        href="#"
+                      >
+                        Awards
+                      </a>
+                    </li>
+                  </div>
+
                 </div>
-                <div>
-                <li class="">
-                  <a
-                    class="rounded-b bg-gray-200 hover:bg-gray-400 py-2 px-4 block whitespace-no-wrap"
-                    href="#"
-                  >
-                    CSR
-                  </a>
-                </li>
-                </div>
-                <div>
-                <li class="">
-                  <a
-                    class="rounded-b bg-gray-200 hover:bg-gray-400 py-2 px-4 block whitespace-no-wrap"
-                    href="#"
-                  >
-                    Major News
-                  </a>
-                </li>
-                </div>
-                <div>
-                <li class="">
-                  <a
-                    class="rounded-b bg-gray-200 hover:bg-gray-400 py-2 px-4 block whitespace-no-wrap"
-                    href="#"
-                  >
-                    Awards
-                  </a>
-                </li>
-                </div>
-               
-</div>
               </ul>
             </div>
-            <div class="group inline-block relative mr-2">
+            <div className="group inline-block relative mr-2">
               <a className="mr-5 hover:text-gray-900 flex items-center">
                 Specialities
-                <span class="ml-2 w-2">
+                <span className="ml-2 w-2">
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
                     viewBox="0 0 20 20"
                     fill="currentColor"
-                    class="h-5 w-5"
+                    className="h-5 w-5"
                   >
                     <path
                       fill-rule="evenodd"
@@ -123,86 +123,86 @@ function App() {
                   </svg>
                 </span>
               </a>
-              <ul class="absolute hidden text-gray-700 pt-1 group-hover:block w-[500px]">
-              <div class="grid grid-cols-2 divide-x">
+              <ul className="absolute hidden text-gray-700 pt-1 group-hover:block w-[500px]">
+                <div className="grid grid-cols-2 divide-x">
 
-  <div><li class="">
-                  <a
-                    class="rounded-t bg-gray-200 hover:bg-gray-400 py-2 px-4 block whitespace-no-wrap"
-                    href="#"
-                  >
-                    Dr. B. Ramesh
-                  </a>
-                </li></div>
-  <div><li class="">
-                  <a
-                    class="bg-gray-200 hover:bg-gray-400 py-2 px-4 block whitespace-no-wrap"
-                    href="#"
-                  >
-                    Management
-                  </a>
-                </li></div>
-                <div><li class="">
-                  <a
-                    class="rounded-b bg-gray-200 hover:bg-gray-400 py-2 px-4 block whitespace-no-wrap"
-                    href="#"
-                  >
-                    Vision & Mission
-                  </a>
-                </li></div>
-                <div>
-                <li class="">
-                  <a
-                    class="rounded-b bg-gray-200 hover:bg-gray-400 py-2 px-4 block whitespace-no-wrap"
-                    href="#"
-                  >
-                    Careers
-                  </a>
-                </li>
+                  <div><li className="">
+                    <a
+                      className="rounded-t bg-gray-200 hover:bg-gray-400 py-2 px-4 block whitespace-no-wrap"
+                      href="#"
+                    >
+                      Dr. B. Ramesh
+                    </a>
+                  </li></div>
+                  <div><li className="">
+                    <a
+                      className="bg-gray-200 hover:bg-gray-400 py-2 px-4 block whitespace-no-wrap"
+                      href="#"
+                    >
+                      Management
+                    </a>
+                  </li></div>
+                  <div><li className="">
+                    <a
+                      className="rounded-b bg-gray-200 hover:bg-gray-400 py-2 px-4 block whitespace-no-wrap"
+                      href="#"
+                    >
+                      Vision & Mission
+                    </a>
+                  </li></div>
+                  <div>
+                    <li className="">
+                      <a
+                        className="rounded-b bg-gray-200 hover:bg-gray-400 py-2 px-4 block whitespace-no-wrap"
+                        href="#"
+                      >
+                        Careers
+                      </a>
+                    </li>
+                  </div>
+                  <div>
+                    <li className="">
+                      <a
+                        className="rounded-b bg-gray-200 hover:bg-gray-400 py-2 px-4 block whitespace-no-wrap"
+                        href="#"
+                      >
+                        CSR
+                      </a>
+                    </li>
+                  </div>
+                  <div>
+                    <li className="">
+                      <a
+                        className="rounded-b bg-gray-200 hover:bg-gray-400 py-2 px-4 block whitespace-no-wrap"
+                        href="#"
+                      >
+                        Major News
+                      </a>
+                    </li>
+                  </div>
+                  <div>
+                    <li className="">
+                      <a
+                        className="rounded-b bg-gray-200 hover:bg-gray-400 py-2 px-4 block whitespace-no-wrap"
+                        href="#"
+                      >
+                        Awards
+                      </a>
+                    </li>
+                  </div>
+
                 </div>
-                <div>
-                <li class="">
-                  <a
-                    class="rounded-b bg-gray-200 hover:bg-gray-400 py-2 px-4 block whitespace-no-wrap"
-                    href="#"
-                  >
-                    CSR
-                  </a>
-                </li>
-                </div>
-                <div>
-                <li class="">
-                  <a
-                    class="rounded-b bg-gray-200 hover:bg-gray-400 py-2 px-4 block whitespace-no-wrap"
-                    href="#"
-                  >
-                    Major News
-                  </a>
-                </li>
-                </div>
-                <div>
-                <li class="">
-                  <a
-                    class="rounded-b bg-gray-200 hover:bg-gray-400 py-2 px-4 block whitespace-no-wrap"
-                    href="#"
-                  >
-                    Awards
-                  </a>
-                </li>
-                </div>
-               
-</div>
               </ul>
             </div>
-            <div class="group inline-block relative mr-2">
+            <div className="group inline-block relative mr-2">
               <a className="mr-5 hover:text-gray-900 flex items-center">
                 Care Services
-                <span class="ml-2 w-2">
+                <span className="ml-2 w-2">
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
                     viewBox="0 0 20 20"
                     fill="currentColor"
-                    class="h-5 w-5"
+                    className="h-5 w-5"
                   >
                     <path
                       fill-rule="evenodd"
@@ -212,86 +212,86 @@ function App() {
                   </svg>
                 </span>
               </a>
-              <ul class="absolute hidden text-gray-700 pt-1 group-hover:block w-[500px]">
-              <div class="grid grid-cols-2 divide-x">
+              <ul className="absolute hidden text-gray-700 pt-1 group-hover:block w-[500px]">
+                <div className="grid grid-cols-2 divide-x">
 
-  <div><li class="">
-                  <a
-                    class="rounded-t bg-gray-200 hover:bg-gray-400 py-2 px-4 block whitespace-no-wrap"
-                    href="#"
-                  >
-                    Dr. B. Ramesh
-                  </a>
-                </li></div>
-  <div><li class="">
-                  <a
-                    class="bg-gray-200 hover:bg-gray-400 py-2 px-4 block whitespace-no-wrap"
-                    href="#"
-                  >
-                    Management
-                  </a>
-                </li></div>
-                <div><li class="">
-                  <a
-                    class="rounded-b bg-gray-200 hover:bg-gray-400 py-2 px-4 block whitespace-no-wrap"
-                    href="#"
-                  >
-                    Vision & Mission
-                  </a>
-                </li></div>
-                <div>
-                <li class="">
-                  <a
-                    class="rounded-b bg-gray-200 hover:bg-gray-400 py-2 px-4 block whitespace-no-wrap"
-                    href="#"
-                  >
-                    Careers
-                  </a>
-                </li>
+                  <div><li className="">
+                    <a
+                      className="rounded-t bg-gray-200 hover:bg-gray-400 py-2 px-4 block whitespace-no-wrap"
+                      href="#"
+                    >
+                      Dr. B. Ramesh
+                    </a>
+                  </li></div>
+                  <div><li className="">
+                    <a
+                      className="bg-gray-200 hover:bg-gray-400 py-2 px-4 block whitespace-no-wrap"
+                      href="#"
+                    >
+                      Management
+                    </a>
+                  </li></div>
+                  <div><li className="">
+                    <a
+                      className="rounded-b bg-gray-200 hover:bg-gray-400 py-2 px-4 block whitespace-no-wrap"
+                      href="#"
+                    >
+                      Vision & Mission
+                    </a>
+                  </li></div>
+                  <div>
+                    <li className="">
+                      <a
+                        className="rounded-b bg-gray-200 hover:bg-gray-400 py-2 px-4 block whitespace-no-wrap"
+                        href="#"
+                      >
+                        Careers
+                      </a>
+                    </li>
+                  </div>
+                  <div>
+                    <li className="">
+                      <a
+                        className="rounded-b bg-gray-200 hover:bg-gray-400 py-2 px-4 block whitespace-no-wrap"
+                        href="#"
+                      >
+                        CSR
+                      </a>
+                    </li>
+                  </div>
+                  <div>
+                    <li className="">
+                      <a
+                        className="rounded-b bg-gray-200 hover:bg-gray-400 py-2 px-4 block whitespace-no-wrap"
+                        href="#"
+                      >
+                        Major News
+                      </a>
+                    </li>
+                  </div>
+                  <div>
+                    <li className="">
+                      <a
+                        className="rounded-b bg-gray-200 hover:bg-gray-400 py-2 px-4 block whitespace-no-wrap"
+                        href="#"
+                      >
+                        Awards
+                      </a>
+                    </li>
+                  </div>
+
                 </div>
-                <div>
-                <li class="">
-                  <a
-                    class="rounded-b bg-gray-200 hover:bg-gray-400 py-2 px-4 block whitespace-no-wrap"
-                    href="#"
-                  >
-                    CSR
-                  </a>
-                </li>
-                </div>
-                <div>
-                <li class="">
-                  <a
-                    class="rounded-b bg-gray-200 hover:bg-gray-400 py-2 px-4 block whitespace-no-wrap"
-                    href="#"
-                  >
-                    Major News
-                  </a>
-                </li>
-                </div>
-                <div>
-                <li class="">
-                  <a
-                    class="rounded-b bg-gray-200 hover:bg-gray-400 py-2 px-4 block whitespace-no-wrap"
-                    href="#"
-                  >
-                    Awards
-                  </a>
-                </li>
-                </div>
-               
-</div>
               </ul>
             </div>
-            <div class="group inline-block relative mr-2">
+            <div className="group inline-block relative mr-2">
               <a className="mr-5 hover:text-gray-900 flex items-center">
                 Value Adds
-                <span class="ml-2 w-2">
+                <span className="ml-2 w-2">
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
                     viewBox="0 0 20 20"
                     fill="currentColor"
-                    class="h-5 w-5"
+                    className="h-5 w-5"
                   >
                     <path
                       fill-rule="evenodd"
@@ -301,86 +301,86 @@ function App() {
                   </svg>
                 </span>
               </a>
-              <ul class="absolute hidden text-gray-700 pt-1 group-hover:block w-[500px]">
-              <div class="grid grid-cols-2 divide-x">
+              <ul className="absolute hidden text-gray-700 pt-1 group-hover:block w-[500px]">
+                <div className="grid grid-cols-2 divide-x">
 
-  <div><li class="">
-                  <a
-                    class="rounded-t bg-gray-200 hover:bg-gray-400 py-2 px-4 block whitespace-no-wrap"
-                    href="#"
-                  >
-                    Dr. B. Ramesh
-                  </a>
-                </li></div>
-  <div><li class="">
-                  <a
-                    class="bg-gray-200 hover:bg-gray-400 py-2 px-4 block whitespace-no-wrap"
-                    href="#"
-                  >
-                    Management
-                  </a>
-                </li></div>
-                <div><li class="">
-                  <a
-                    class="rounded-b bg-gray-200 hover:bg-gray-400 py-2 px-4 block whitespace-no-wrap"
-                    href="#"
-                  >
-                    Vision & Mission
-                  </a>
-                </li></div>
-                <div>
-                <li class="">
-                  <a
-                    class="rounded-b bg-gray-200 hover:bg-gray-400 py-2 px-4 block whitespace-no-wrap"
-                    href="#"
-                  >
-                    Careers
-                  </a>
-                </li>
+                  <div><li className="">
+                    <a
+                      className="rounded-t bg-gray-200 hover:bg-gray-400 py-2 px-4 block whitespace-no-wrap"
+                      href="#"
+                    >
+                      Dr. B. Ramesh
+                    </a>
+                  </li></div>
+                  <div><li className="">
+                    <a
+                      className="bg-gray-200 hover:bg-gray-400 py-2 px-4 block whitespace-no-wrap"
+                      href="#"
+                    >
+                      Management
+                    </a>
+                  </li></div>
+                  <div><li className="">
+                    <a
+                      className="rounded-b bg-gray-200 hover:bg-gray-400 py-2 px-4 block whitespace-no-wrap"
+                      href="#"
+                    >
+                      Vision & Mission
+                    </a>
+                  </li></div>
+                  <div>
+                    <li className="">
+                      <a
+                        className="rounded-b bg-gray-200 hover:bg-gray-400 py-2 px-4 block whitespace-no-wrap"
+                        href="#"
+                      >
+                        Careers
+                      </a>
+                    </li>
+                  </div>
+                  <div>
+                    <li className="">
+                      <a
+                        className="rounded-b bg-gray-200 hover:bg-gray-400 py-2 px-4 block whitespace-no-wrap"
+                        href="#"
+                      >
+                        CSR
+                      </a>
+                    </li>
+                  </div>
+                  <div>
+                    <li className="">
+                      <a
+                        className="rounded-b bg-gray-200 hover:bg-gray-400 py-2 px-4 block whitespace-no-wrap"
+                        href="#"
+                      >
+                        Major News
+                      </a>
+                    </li>
+                  </div>
+                  <div>
+                    <li className="">
+                      <a
+                        className="rounded-b bg-gray-200 hover:bg-gray-400 py-2 px-4 block whitespace-no-wrap"
+                        href="#"
+                      >
+                        Awards
+                      </a>
+                    </li>
+                  </div>
+
                 </div>
-                <div>
-                <li class="">
-                  <a
-                    class="rounded-b bg-gray-200 hover:bg-gray-400 py-2 px-4 block whitespace-no-wrap"
-                    href="#"
-                  >
-                    CSR
-                  </a>
-                </li>
-                </div>
-                <div>
-                <li class="">
-                  <a
-                    class="rounded-b bg-gray-200 hover:bg-gray-400 py-2 px-4 block whitespace-no-wrap"
-                    href="#"
-                  >
-                    Major News
-                  </a>
-                </li>
-                </div>
-                <div>
-                <li class="">
-                  <a
-                    class="rounded-b bg-gray-200 hover:bg-gray-400 py-2 px-4 block whitespace-no-wrap"
-                    href="#"
-                  >
-                    Awards
-                  </a>
-                </li>
-                </div>
-               
-</div>
               </ul>
             </div>
-            <div class="group inline-block relative mr-2">
+            <div className="group inline-block relative mr-2">
               <a className="mr-5 hover:text-gray-900 flex items-center">
                 Locations
-                <span class="ml-2 w-2">
+                <span className="ml-2 w-2">
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
                     viewBox="0 0 20 20"
                     fill="currentColor"
-                    class="h-5 w-5"
+                    className="h-5 w-5"
                   >
                     <path
                       fill-rule="evenodd"
@@ -390,86 +390,86 @@ function App() {
                   </svg>
                 </span>
               </a>
-              <ul class="absolute hidden text-gray-700 pt-1 group-hover:block w-[500px]">
-              <div class="grid grid-cols-2 divide-x">
+              <ul className="absolute hidden text-gray-700 pt-1 group-hover:block w-[500px]">
+                <div className="grid grid-cols-2 divide-x">
 
-  <div><li class="">
-                  <a
-                    class="rounded-t bg-gray-200 hover:bg-gray-400 py-2 px-4 block whitespace-no-wrap"
-                    href="#"
-                  >
-                    Dr. B. Ramesh
-                  </a>
-                </li></div>
-  <div><li class="">
-                  <a
-                    class="bg-gray-200 hover:bg-gray-400 py-2 px-4 block whitespace-no-wrap"
-                    href="#"
-                  >
-                    Management
-                  </a>
-                </li></div>
-                <div><li class="">
-                  <a
-                    class="rounded-b bg-gray-200 hover:bg-gray-400 py-2 px-4 block whitespace-no-wrap"
-                    href="#"
-                  >
-                    Vision & Mission
-                  </a>
-                </li></div>
-                <div>
-                <li class="">
-                  <a
-                    class="rounded-b bg-gray-200 hover:bg-gray-400 py-2 px-4 block whitespace-no-wrap"
-                    href="#"
-                  >
-                    Careers
-                  </a>
-                </li>
+                  <div><li className="">
+                    <a
+                      className="rounded-t bg-gray-200 hover:bg-gray-400 py-2 px-4 block whitespace-no-wrap"
+                      href="#"
+                    >
+                      Dr. B. Ramesh
+                    </a>
+                  </li></div>
+                  <div><li className="">
+                    <a
+                      className="bg-gray-200 hover:bg-gray-400 py-2 px-4 block whitespace-no-wrap"
+                      href="#"
+                    >
+                      Management
+                    </a>
+                  </li></div>
+                  <div><li className="">
+                    <a
+                      className="rounded-b bg-gray-200 hover:bg-gray-400 py-2 px-4 block whitespace-no-wrap"
+                      href="#"
+                    >
+                      Vision & Mission
+                    </a>
+                  </li></div>
+                  <div>
+                    <li className="">
+                      <a
+                        className="rounded-b bg-gray-200 hover:bg-gray-400 py-2 px-4 block whitespace-no-wrap"
+                        href="#"
+                      >
+                        Careers
+                      </a>
+                    </li>
+                  </div>
+                  <div>
+                    <li className="">
+                      <a
+                        className="rounded-b bg-gray-200 hover:bg-gray-400 py-2 px-4 block whitespace-no-wrap"
+                        href="#"
+                      >
+                        CSR
+                      </a>
+                    </li>
+                  </div>
+                  <div>
+                    <li className="">
+                      <a
+                        className="rounded-b bg-gray-200 hover:bg-gray-400 py-2 px-4 block whitespace-no-wrap"
+                        href="#"
+                      >
+                        Major News
+                      </a>
+                    </li>
+                  </div>
+                  <div>
+                    <li className="">
+                      <a
+                        className="rounded-b bg-gray-200 hover:bg-gray-400 py-2 px-4 block whitespace-no-wrap"
+                        href="#"
+                      >
+                        Awards
+                      </a>
+                    </li>
+                  </div>
+
                 </div>
-                <div>
-                <li class="">
-                  <a
-                    class="rounded-b bg-gray-200 hover:bg-gray-400 py-2 px-4 block whitespace-no-wrap"
-                    href="#"
-                  >
-                    CSR
-                  </a>
-                </li>
-                </div>
-                <div>
-                <li class="">
-                  <a
-                    class="rounded-b bg-gray-200 hover:bg-gray-400 py-2 px-4 block whitespace-no-wrap"
-                    href="#"
-                  >
-                    Major News
-                  </a>
-                </li>
-                </div>
-                <div>
-                <li class="">
-                  <a
-                    class="rounded-b bg-gray-200 hover:bg-gray-400 py-2 px-4 block whitespace-no-wrap"
-                    href="#"
-                  >
-                    Awards
-                  </a>
-                </li>
-                </div>
-               
-</div>
               </ul>
             </div>
-            <div class="group inline-block relative mr-2">
+            <div className="group inline-block relative mr-2">
               <a className="mr-5 hover:text-gray-900 flex items-center">
                 Resources
-                <span class="ml-2 w-2">
+                <span className="ml-2 w-2">
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
                     viewBox="0 0 20 20"
                     fill="currentColor"
-                    class="h-5 w-5"
+                    className="h-5 w-5"
                   >
                     <path
                       fill-rule="evenodd"
@@ -479,75 +479,75 @@ function App() {
                   </svg>
                 </span>
               </a>
-              <ul class="absolute hidden text-gray-700 pt-1 group-hover:block w-[500px]">
-              <div class="grid grid-cols-2 divide-x">
+              <ul className="absolute hidden text-gray-700 pt-1 group-hover:block w-[500px]">
+                <div className="grid grid-cols-2 divide-x">
 
-  <div><li class="">
-                  <a
-                    class="rounded-t bg-gray-200 hover:bg-gray-400 py-2 px-4 block whitespace-no-wrap"
-                    href="#"
-                  >
-                    Dr. B. Ramesh
-                  </a>
-                </li></div>
-  <div><li class="">
-                  <a
-                    class="bg-gray-200 hover:bg-gray-400 py-2 px-4 block whitespace-no-wrap"
-                    href="#"
-                  >
-                    Management
-                  </a>
-                </li></div>
-                <div><li class="">
-                  <a
-                    class="rounded-b bg-gray-200 hover:bg-gray-400 py-2 px-4 block whitespace-no-wrap"
-                    href="#"
-                  >
-                    Vision & Mission
-                  </a>
-                </li></div>
-                <div>
-                <li class="">
-                  <a
-                    class="rounded-b bg-gray-200 hover:bg-gray-400 py-2 px-4 block whitespace-no-wrap"
-                    href="#"
-                  >
-                    Careers
-                  </a>
-                </li>
+                  <div><li className="">
+                    <a
+                      className="rounded-t bg-gray-200 hover:bg-gray-400 py-2 px-4 block whitespace-no-wrap"
+                      href="#"
+                    >
+                      Dr. B. Ramesh
+                    </a>
+                  </li></div>
+                  <div><li className="">
+                    <a
+                      className="bg-gray-200 hover:bg-gray-400 py-2 px-4 block whitespace-no-wrap"
+                      href="#"
+                    >
+                      Management
+                    </a>
+                  </li></div>
+                  <div><li className="">
+                    <a
+                      className="rounded-b bg-gray-200 hover:bg-gray-400 py-2 px-4 block whitespace-no-wrap"
+                      href="#"
+                    >
+                      Vision & Mission
+                    </a>
+                  </li></div>
+                  <div>
+                    <li className="">
+                      <a
+                        className="rounded-b bg-gray-200 hover:bg-gray-400 py-2 px-4 block whitespace-no-wrap"
+                        href="#"
+                      >
+                        Careers
+                      </a>
+                    </li>
+                  </div>
+                  <div>
+                    <li className="">
+                      <a
+                        className="rounded-b bg-gray-200 hover:bg-gray-400 py-2 px-4 block whitespace-no-wrap"
+                        href="#"
+                      >
+                        CSR
+                      </a>
+                    </li>
+                  </div>
+                  <div>
+                    <li className="">
+                      <a
+                        className="rounded-b bg-gray-200 hover:bg-gray-400 py-2 px-4 block whitespace-no-wrap"
+                        href="#"
+                      >
+                        Major News
+                      </a>
+                    </li>
+                  </div>
+                  <div>
+                    <li className="">
+                      <a
+                        className="rounded-b bg-gray-200 hover:bg-gray-400 py-2 px-4 block whitespace-no-wrap"
+                        href="#"
+                      >
+                        Awards
+                      </a>
+                    </li>
+                  </div>
+
                 </div>
-                <div>
-                <li class="">
-                  <a
-                    class="rounded-b bg-gray-200 hover:bg-gray-400 py-2 px-4 block whitespace-no-wrap"
-                    href="#"
-                  >
-                    CSR
-                  </a>
-                </li>
-                </div>
-                <div>
-                <li class="">
-                  <a
-                    class="rounded-b bg-gray-200 hover:bg-gray-400 py-2 px-4 block whitespace-no-wrap"
-                    href="#"
-                  >
-                    Major News
-                  </a>
-                </li>
-                </div>
-                <div>
-                <li class="">
-                  <a
-                    class="rounded-b bg-gray-200 hover:bg-gray-400 py-2 px-4 block whitespace-no-wrap"
-                    href="#"
-                  >
-                    Awards
-                  </a>
-                </li>
-                </div>
-               
-</div>
               </ul>
             </div>
           </nav>
@@ -559,18 +559,18 @@ function App() {
           </button>
         </div>
       </header>
-      <section className="text-gray-600 body-font relative">
+      <section className="text-gray-600 body-font">
         {/* bg-[url('https://images.indianexpress.com/2019/12/mother-baby.jpg')] bg-cover bg-center */}
         <div className="container px-5 pb-24 pt-15 mx-auto flex sm:flex-nowrap flex-wrap items-center ">
-          <div class="md:w-2/3 md:pr-12 md:py-8 mb-10 md:mb-0 pb-10 ">
-            <h1 class="sm:text-3xl text-2xl font-medium title-font mb-2 text-grey-900 mb-15">
+          <div className="md:w-2/3 md:pr-12 md:py-8 mb-10 md:mb-0 pb-10 ">
+            <h1 className="sm:text-3xl text-2xl font-medium title-font mb-2 text-grey-900 mb-15">
               Bangalore's Most Trusted Fertility Hospital.
             </h1>
-            <p class="leading-relaxed text-base mb-10 text-grey-900">
+            <p className="leading-relaxed text-base mb-10 text-grey-900">
               Providing World-class Treatments With 1,00,000+ Successful
               Procedures Making Your Dream of Parenthood a Reality.
             </p>
-            <h1 class="sm:text-1xl text-2xl font-medium title-font mb-2 text-grey-900">
+            <h1 className="sm:text-1xl text-2xl font-medium title-font mb-2 text-grey-900">
               Your First Fertility Consultation Will Be FREE
             </h1>
           </div>
@@ -579,7 +579,7 @@ function App() {
               Get In Touch
             </h2>
             <p className="leading-relaxed mb-5 text-gray-600"></p>
-            <div className="relative mb-4">
+            <div className="mb-4">
               <label htmlFor="name" className="leading-7 text-sm text-gray-600">
                 Name
               </label>
@@ -590,7 +590,7 @@ function App() {
                 className="w-full bg-white rounded border border-gray-300 focus:border-indigo-500 focus:ring-2 focus:ring-indigo-200 text-base outline-none text-gray-700 py-1 px-3 leading-8 transition-colors duration-200 ease-in-out"
               />
             </div>
-            <div className="relative mb-4">
+            <div className="mb-4">
               <label
                 htmlFor="email"
                 className="leading-7 text-sm text-gray-600"
@@ -604,7 +604,7 @@ function App() {
                 className="w-full bg-white rounded border border-gray-300 focus:border-indigo-500 focus:ring-2 focus:ring-indigo-200 text-base outline-none text-gray-700 py-1 px-3 leading-8 transition-colors duration-200 ease-in-out"
               />
             </div>
-            <div className="relative mb-4">
+            <div className="mb-4">
               <label
                 htmlFor="phone"
                 className="leading-7 text-sm text-gray-600"
@@ -618,7 +618,7 @@ function App() {
                 className="w-full bg-white rounded border border-gray-300 focus:border-indigo-500 focus:ring-2 focus:ring-indigo-200 text-base outline-none text-gray-700 py-1 px-3 leading-8 transition-colors duration-200 ease-in-out"
               />
             </div>
-            <div className="relative mb-4">
+            <div className="mb-4">
               <label
                 htmlFor="message"
                 className="leading-7 text-sm text-gray-600"
@@ -639,8 +639,8 @@ function App() {
       </section>
       <section className="text-gray-600 body-font">
         <div className="container px-5 pb-24 pt-15 mx-auto flex flex-wrap">
-          <div class="flex flex-col text-center w-full mb-10">
-            <h1 class="sm:text-3xl text-2xl font-medium title-font mb-4 text-gray-900">
+          <div className="flex flex-col text-center w-full mb-10">
+            <h1 className="sm:text-3xl text-2xl font-medium title-font mb-4 text-gray-900">
               See How We're Turning Your Hopes Into Your Bundles Of Joy
             </h1>
           </div>
@@ -830,19 +830,19 @@ function App() {
           </div>
         </div>
       </section>
-      <section class="text-gray-600 body-font">
-        <div class="container px-5 pb-24 pt-15 mx-auto flex flex-col">
-          <div class="lg:w-4/6 mx-auto">
+      <section className="text-gray-600 body-font">
+        <div className="container px-5 pb-24 pt-15 mx-auto flex flex-col">
+          <div className="lg:w-4/6 mx-auto">
             <div className="flex flex-col text-center w-full">
               <h1 className="sm:text-3xl text-2xl font-medium title-font mb-4 text-gray-900">
                 Infertility Is Healable. Don’t Lose Hope
               </h1>
             </div>
-            <div class="flex flex-col sm:flex-row mt-10">
+            <div className="flex flex-col sm:flex-row mt-10">
               <div className="w-70">
-                <div class="flex text-center sm:pr-8 sm:py-8">
-                  <div class="w-20 h-20 rounded-full inline-flex items-center justify-center bg-gray-200 text-gray-400">
-                    <div class="h-50">
+                <div className="flex text-center sm:pr-8 sm:py-8">
+                  <div className="w-20 h-20 rounded-full inline-flex items-center justify-center bg-gray-200 text-gray-400">
+                    <div className="h-50">
                       <svg
                         xmlns="http://www.w3.org/2000/svg"
                         // xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -890,16 +890,16 @@ function App() {
                       </svg>
                     </div>
                   </div>
-                  <div class="flex flex-col items-center text-center justify-center ml-8">
-                    <h2 class="font-medium title-font text-gray-900 text-lg">
+                  <div className="flex flex-col items-center text-center justify-center ml-8">
+                    <h2 className="font-medium title-font text-gray-900 text-lg">
                       10,000+
                     </h2>
                     <p>Happy Mothers & Newborn</p>
-                    <div class="w-12 h-1 bg-indigo-500 rounded mt-2 mb-4"></div>
+                    <div className="w-12 h-1 bg-indigo-500 rounded mt-2 mb-4"></div>
                   </div>
                 </div>
-                <div class="flex text-center sm:pr-8 sm:py-8">
-                  <div class="w-20 h-20 rounded-full inline-flex items-center justify-center bg-gray-200 text-gray-400">
+                <div className="flex text-center sm:pr-8 sm:py-8">
+                  <div className="w-20 h-20 rounded-full inline-flex items-center justify-center bg-gray-200 text-gray-400">
                     <svg
                       xmlns="http://www.w3.org/2000/svg"
                       // xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -946,20 +946,20 @@ function App() {
                       ></path>
                     </svg>
                   </div>
-                  <div class="flex flex-col items-center text-center justify-center ml-3">
-                    <h2 class="font-medium title-font text-gray-900 text-lg">
+                  <div className="flex flex-col items-center text-center justify-center ml-3">
+                    <h2 className="font-medium title-font text-gray-900 text-lg">
                       18+
                     </h2>
                     <p>Years Serving Mothers & Their Babies</p>
-                    <div class="w-12 h-1 bg-indigo-500 rounded mt-2 mb-4"></div>
+                    <div className="w-12 h-1 bg-indigo-500 rounded mt-2 mb-4"></div>
                   </div>
                 </div>
               </div>
-              <div class="sm:w-2/3 sm:pl-8 sm:py-8 sm:border-l border-gray-200 sm:border-t-0 border-t mt-4 pt-4 sm:mt-0 text-center sm:text-left">
-                {/* <div class="rounded-lg h-64 overflow-hidden"> */}
+              <div className="sm:w-2/3 sm:pl-8 sm:py-8 sm:border-l border-gray-200 sm:border-t-0 border-t mt-4 pt-4 sm:mt-0 text-center sm:text-left">
+                {/* <div className="rounded-lg h-64 overflow-hidden"> */}
                 {/* <img
                   alt="content"
-                  class="object-cover object-center h-full w-full"
+                  className="object-cover object-center h-full w-full"
                   src="https://dummyimage.com/1200x500"
                 /> */}
                 {/* </div> */}
@@ -996,7 +996,7 @@ function App() {
                 brought in the most advanced technology to ensure
                 cost-effectiveness.
               </p>
-              <button class="flex mx-auto mt-16 text-white bg-indigo-500 border-0 py-2 px-8 focus:outline-none hover:bg-indigo-600 rounded text-lg">
+              <button className="flex mx-auto mt-16 text-white bg-indigo-500 border-0 py-2 px-8 focus:outline-none hover:bg-indigo-600 rounded text-lg">
                 Book Your First Consultation
                 <svg
                   fill="none"
@@ -1004,7 +1004,7 @@ function App() {
                   stroke-linecap="round"
                   stroke-linejoin="round"
                   stroke-width="2"
-                  class="w-5 h-5 ml-2"
+                  className="w-5 h-5 ml-2"
                   viewBox="0 0 24 10"
                 >
                   <path d="M5 12h14M12 5l7 7-7 7"></path>
@@ -1050,7 +1050,7 @@ function App() {
                 <h2 className="text-gray-900 text-lg title-font font-medium mb-2">
                   It Is Offered To Females :
                 </h2>
-                <ul class="list-disc">
+                <ul className="list-disc">
                   <li>Tubal factor infertility.</li>
                   <li>Severe endometriosis.</li>
                   <li>Failed multiple cycles of OI, IUI.</li>
@@ -1117,7 +1117,7 @@ function App() {
                 {/* <h2 className="text-gray-900 text-lg title-font font-medium mb-2">
                   It Is Offered To Females :
                 </h2> */}
-                <ul class="items-center">
+                <ul className="items-center">
                   <li>
                     &#x2022; You have been diagnosed with unexplained
                     infertility.
@@ -1221,7 +1221,7 @@ function App() {
                 {/* <h2 className="text-gray-900 text-lg title-font font-medium mb-2">
                   It Is Offered To Females :
                 </h2> */}
-                <ul class="items-center">
+                <ul className="items-center">
                   <li>
                     &#x2022; For menopausal or perimenopausal women with a
                     sub-fertile partner.
@@ -1287,7 +1287,7 @@ function App() {
 
             <div className="p-4 md:w-3/3 flex">
               <div className="flex-grow pl-6">
-                <ul class="items-center">
+                <ul className="items-center">
                   <li>
                     &#x2022; PESA – Percutaneous Epididymal Sperm Aspiration.
                   </li>
@@ -1319,7 +1319,7 @@ function App() {
 
             <div className="p-4 md:w-3/3 flex">
               <div className="flex-grow pl-6">
-                <ul class="items-center">
+                <ul className="items-center">
                   <li>&#x2022; Laparoscopic tubal recanalization.</li>
                   <li>
                     &#x2022; Laparoscopic varicocele ligation in male patients.
@@ -1336,7 +1336,7 @@ function App() {
 
             <div className="p-4 md:w-3/3 flex">
               <div className="flex-grow pl-6">
-                <ul class="items-center">
+                <ul className="items-center">
                   <li>&#x2022; First IVF/ICSI Baby.</li>
                   <li>&#x2022; Success rates of 50-60%.</li>
                   <li>&#x2022; Successfully delivered babies through IVF.</li>
@@ -1358,82 +1358,82 @@ function App() {
           </div>
         </div>
       </section>
-      <section class="text-gray-600 body-font">
-        <div class="container px-5 pb-24 pt-15 mx-auto">
-          <div class="lg:w-2/3 flex flex-col sm:flex-row sm:items-center items-start mx-auto">
-            <h1 class="flex-grow sm:pr-16 text-2xl font-medium title-font text-gray-900">
+      <section className="text-gray-600 body-font">
+        <div className="container px-5 pb-24 pt-15 mx-auto">
+          <div className="lg:w-2/3 flex flex-col sm:flex-row sm:items-center items-start mx-auto">
+            <h1 className="flex-grow sm:pr-16 text-2xl font-medium title-font text-gray-900">
               Our Specialized Team Of IVF Experts
             </h1>
-            <button class="flex-shrink-0 text-white bg-indigo-500 border-0 py-2 px-8 focus:outline-none hover:bg-indigo-600 rounded text-lg mt-10 sm:mt-0">
+            <button className="flex-shrink-0 text-white bg-indigo-500 border-0 py-2 px-8 focus:outline-none hover:bg-indigo-600 rounded text-lg mt-10 sm:mt-0">
               View All Doctors
             </button>
           </div>
         </div>
       </section>
-      <section class="text-gray-600 body-font">
-        <div class="container px-5 pb-24 pt-15 mx-auto">
-          <h1 class="text-3xl font-medium title-font text-gray-900 mb-12 text-center">
+      <section className="text-gray-600 body-font">
+        <div className="container px-5 pb-24 pt-15 mx-auto">
+          <h1 className="text-3xl font-medium title-font text-gray-900 mb-12 text-center">
             See Why Our Patients Love Us
           </h1>
-          <div class="flex flex-wrap -m-4">
-            <div class="p-4 md:w-1/2 w-full">
-              <div class="h-full bg-gray-100 p-8 rounded">
+          <div className="flex flex-wrap -m-4">
+            <div className="p-4 md:w-1/2 w-full">
+              <div className="h-full bg-gray-100 p-8 rounded">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   fill="currentColor"
-                  class="block w-5 h-5 text-gray-400 mb-4"
+                  className="block w-5 h-5 text-gray-400 mb-4"
                   viewBox="0 0 975.036 975.036"
                 >
                   <path d="M925.036 57.197h-304c-27.6 0-50 22.4-50 50v304c0 27.601 22.4 50 50 50h145.5c-1.9 79.601-20.4 143.3-55.4 191.2-27.6 37.8-69.399 69.1-125.3 93.8-25.7 11.3-36.8 41.7-24.8 67.101l36 76c11.6 24.399 40.3 35.1 65.1 24.399 66.2-28.6 122.101-64.8 167.7-108.8 55.601-53.7 93.7-114.3 114.3-181.9 20.601-67.6 30.9-159.8 30.9-276.8v-239c0-27.599-22.401-50-50-50zM106.036 913.497c65.4-28.5 121-64.699 166.9-108.6 56.1-53.7 94.4-114.1 115-181.2 20.6-67.1 30.899-159.6 30.899-277.5v-239c0-27.6-22.399-50-50-50h-304c-27.6 0-50 22.4-50 50v304c0 27.601 22.4 50 50 50h145.5c-1.9 79.601-20.4 143.3-55.4 191.2-27.6 37.8-69.4 69.1-125.3 93.8-25.7 11.3-36.8 41.7-24.8 67.101l35.9 75.8c11.601 24.399 40.501 35.2 65.301 24.399z"></path>
                 </svg>
-                <p class="leading-relaxed mb-6">
+                <p className="leading-relaxed mb-6">
                   Synth chartreuse iPhone lomo cray raw denim brunch everyday
                   carry neutra before they sold out fixie 90's microdosing.
                   Tacos pinterest fanny pack venmo, post-ironic heirloom
                   try-hard pabst authentic iceland.
                 </p>
-                <a class="inline-flex items-center">
+                <a className="inline-flex items-center">
                   <img
                     alt="testimonial"
                     src="https://dummyimage.com/106x106"
-                    class="w-12 h-12 rounded-full flex-shrink-0 object-cover object-center"
+                    className="w-12 h-12 rounded-full flex-shrink-0 object-cover object-center"
                   />
-                  <span class="flex-grow flex flex-col pl-4">
-                    <span class="title-font font-medium text-gray-900">
+                  <span className="flex-grow flex flex-col pl-4">
+                    <span className="title-font font-medium text-gray-900">
                       Holden Caulfield
                     </span>
-                    <span class="text-gray-500 text-sm">UI DEVELOPER</span>
+                    <span className="text-gray-500 text-sm">UI DEVELOPER</span>
                   </span>
                 </a>
               </div>
             </div>
-            <div class="p-4 md:w-1/2 w-full">
-              <div class="h-full bg-gray-100 p-8 rounded">
+            <div className="p-4 md:w-1/2 w-full">
+              <div className="h-full bg-gray-100 p-8 rounded">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   fill="currentColor"
-                  class="block w-5 h-5 text-gray-400 mb-4"
+                  className="block w-5 h-5 text-gray-400 mb-4"
                   viewBox="0 0 975.036 975.036"
                 >
                   <path d="M925.036 57.197h-304c-27.6 0-50 22.4-50 50v304c0 27.601 22.4 50 50 50h145.5c-1.9 79.601-20.4 143.3-55.4 191.2-27.6 37.8-69.399 69.1-125.3 93.8-25.7 11.3-36.8 41.7-24.8 67.101l36 76c11.6 24.399 40.3 35.1 65.1 24.399 66.2-28.6 122.101-64.8 167.7-108.8 55.601-53.7 93.7-114.3 114.3-181.9 20.601-67.6 30.9-159.8 30.9-276.8v-239c0-27.599-22.401-50-50-50zM106.036 913.497c65.4-28.5 121-64.699 166.9-108.6 56.1-53.7 94.4-114.1 115-181.2 20.6-67.1 30.899-159.6 30.899-277.5v-239c0-27.6-22.399-50-50-50h-304c-27.6 0-50 22.4-50 50v304c0 27.601 22.4 50 50 50h145.5c-1.9 79.601-20.4 143.3-55.4 191.2-27.6 37.8-69.4 69.1-125.3 93.8-25.7 11.3-36.8 41.7-24.8 67.101l35.9 75.8c11.601 24.399 40.501 35.2 65.301 24.399z"></path>
                 </svg>
-                <p class="leading-relaxed mb-6">
+                <p className="leading-relaxed mb-6">
                   Synth chartreuse iPhone lomo cray raw denim brunch everyday
                   carry neutra before they sold out fixie 90's microdosing.
                   Tacos pinterest fanny pack venmo, post-ironic heirloom
                   try-hard pabst authentic iceland.
                 </p>
-                <a class="inline-flex items-center">
+                <a className="inline-flex items-center">
                   <img
                     alt="testimonial"
                     src="https://dummyimage.com/107x107"
-                    class="w-12 h-12 rounded-full flex-shrink-0 object-cover object-center"
+                    className="w-12 h-12 rounded-full flex-shrink-0 object-cover object-center"
                   />
-                  <span class="flex-grow flex flex-col pl-4">
-                    <span class="title-font font-medium text-gray-900">
+                  <span className="flex-grow flex flex-col pl-4">
+                    <span className="title-font font-medium text-gray-900">
                       Alper Kamu
                     </span>
-                    <span class="text-gray-500 text-sm">DESIGNER</span>
+                    <span className="text-gray-500 text-sm">DESIGNER</span>
                   </span>
                 </a>
               </div>
@@ -1441,116 +1441,116 @@ function App() {
           </div>
         </div>
       </section>
-      <section class="text-gray-600 body-font">
-        <div class="container px-5 py-15 mx-auto">
-          <div class="flex flex-wrap">
-            <div class="xl:w-1/4 lg:w-1/2 md:w-full px-8 py-6 border-l-2 border-gray-200 border-opacity-60">
-              <h2 class="text-lg sm:text-xl text-gray-900 font-medium title-font mb-2">
+      <section className="text-gray-600 body-font">
+        <div className="container px-5 py-15 mx-auto">
+          <div className="flex flex-wrap">
+            <div className="xl:w-1/4 lg:w-1/2 md:w-full px-8 py-6 border-l-2 border-gray-200 border-opacity-60">
+              <h2 className="text-lg sm:text-xl text-gray-900 font-medium title-font mb-2">
                 Rajajinagar
               </h2>
-              <p class="leading-relaxed text-base mb-4">
+              <p className="leading-relaxed text-base mb-4">
                 # 6/63, 59th Cross, 4th Block, Rajajinagar Entrance, Opp. MEI
                 Polytechnic, Near Ram Mandir, Bengaluru - 560 010
               </p>
-              <div class="lg:w-1/2 mt-4 lg:mt-0">
-                <h2 class="title-font font-semibold text-gray-900 tracking-widest text-xs">
+              <div className="lg:w-1/2 mt-4 lg:mt-0">
+                <h2 className="title-font font-semibold text-gray-900 tracking-widest text-xs">
                   EMAIL
                 </h2>
-                <a class="text-indigo-500 leading-relaxed">example@email.com</a>
-                <h2 class="title-font font-semibold text-gray-900 tracking-widest text-xs mt-4">
+                <a className="text-indigo-500 leading-relaxed">example@email.com</a>
+                <h2 className="title-font font-semibold text-gray-900 tracking-widest text-xs mt-4">
                   PHONE
                 </h2>
-                <p class="leading-relaxed">123-456-7890</p>
-                <button class=" mt-2 text-white bg-indigo-500 border-0 py-1 px-2 focus:outline-none hover:bg-indigo-600 rounded text-sm">
-                Get Directions 
-          </button>
+                <p className="leading-relaxed">123-456-7890</p>
+                <button className=" mt-2 text-white bg-indigo-500 border-0 py-1 px-2 focus:outline-none hover:bg-indigo-600 rounded text-sm">
+                  Get Directions
+                </button>
               </div>
             </div>
-            <div class="xl:w-1/4 lg:w-1/2 md:w-full px-8 py-6 border-l-2 border-gray-200 border-opacity-60">
-              <h2 class="text-lg sm:text-xl text-gray-900 font-medium title-font mb-2">
+            <div className="xl:w-1/4 lg:w-1/2 md:w-full px-8 py-6 border-l-2 border-gray-200 border-opacity-60">
+              <h2 className="text-lg sm:text-xl text-gray-900 font-medium title-font mb-2">
                 Rajarajeswari Nagar
               </h2>
-              <p class="leading-relaxed text-base mb-4">
+              <p className="leading-relaxed text-base mb-4">
                 # 915, First Floor Danush Palza, Ideal Homes Township,
                 Rajarajeshwarinagar, Bengaluru - 560098
-                
+
               </p>
-              <div class="lg:w-1/2 mt-4 lg:mt-0">
-                <h2 class="title-font font-semibold text-gray-900 tracking-widest text-xs">
+              <div className="lg:w-1/2 mt-4 lg:mt-0">
+                <h2 className="title-font font-semibold text-gray-900 tracking-widest text-xs">
                   EMAIL
                 </h2>
-                <a class="text-indigo-500 leading-relaxed">example@email.com</a>
-                <h2 class="title-font font-semibold text-gray-900 tracking-widest text-xs mt-4">
+                <a className="text-indigo-500 leading-relaxed">example@email.com</a>
+                <h2 className="title-font font-semibold text-gray-900 tracking-widest text-xs mt-4">
                   PHONE
                 </h2>
-                <p class="leading-relaxed">123-456-7890</p>
-                <button class=" mt-2 text-white bg-indigo-500 border-0 py-1 px-2 focus:outline-none hover:bg-indigo-600 rounded text-sm">
-                Get Directions 
-          </button>
+                <p className="leading-relaxed">123-456-7890</p>
+                <button className=" mt-2 text-white bg-indigo-500 border-0 py-1 px-2 focus:outline-none hover:bg-indigo-600 rounded text-sm">
+                  Get Directions
+                </button>
               </div>
             </div>
-            <div class="xl:w-1/4 lg:w-1/2 md:w-full px-8 py-6 border-l-2 border-gray-200 border-opacity-60">
-              <h2 class="text-lg sm:text-xl text-gray-900 font-medium title-font mb-2">
+            <div className="xl:w-1/4 lg:w-1/2 md:w-full px-8 py-6 border-l-2 border-gray-200 border-opacity-60">
+              <h2 className="text-lg sm:text-xl text-gray-900 font-medium title-font mb-2">
                 HBR Layout
               </h2>
-              <p class="leading-relaxed text-base mb-4">
+              <p className="leading-relaxed text-base mb-4">
                 #511,Outer ring road, 4th Block HBR layout, Bengaluru
               </p>
-              <br/>
-                <br/>
-              <div class="lg:w-1/2 mt-4 lg:mt-0">
-                <h2 class="title-font font-semibold text-gray-900 tracking-widest text-xs">
+              <br />
+              <br />
+              <div className="lg:w-1/2 mt-4 lg:mt-0">
+                <h2 className="title-font font-semibold text-gray-900 tracking-widest text-xs">
                   EMAIL
                 </h2>
-                <a class="text-indigo-500 leading-relaxed">example@email.com</a>
-                <h2 class="title-font font-semibold text-gray-900 tracking-widest text-xs mt-4">
+                <a className="text-indigo-500 leading-relaxed">example@email.com</a>
+                <h2 className="title-font font-semibold text-gray-900 tracking-widest text-xs mt-4">
                   PHONE
                 </h2>
-                <p class="leading-relaxed">123-456-7890</p>
-                <button class=" mt-2 text-white bg-indigo-500 border-0 py-1 px-2 focus:outline-none hover:bg-indigo-600 rounded text-sm">
-                Get Directions 
-          </button>
+                <p className="leading-relaxed">123-456-7890</p>
+                <button className=" mt-2 text-white bg-indigo-500 border-0 py-1 px-2 focus:outline-none hover:bg-indigo-600 rounded text-sm">
+                  Get Directions
+                </button>
               </div>
             </div>
-            <div class="xl:w-1/4 lg:w-1/2 md:w-full px-8 py-6 border-l-2 border-gray-200 border-opacity-60">
-              <h2 class="text-lg sm:text-xl text-gray-900 font-medium title-font mb-2">
+            <div className="xl:w-1/4 lg:w-1/2 md:w-full px-8 py-6 border-l-2 border-gray-200 border-opacity-60">
+              <h2 className="text-lg sm:text-xl text-gray-900 font-medium title-font mb-2">
                 Yelahanka
               </h2>
-              <p class="leading-relaxed text-base mb-4">
+              <p className="leading-relaxed text-base mb-4">
                 Ground Floor, Amenities Building, North Gate Phase 2, Yelahanka,
                 Bengaluru - 560064
-                <br/>
-<br/>
+                <br />
+                <br />
               </p>
-              <div class="lg:w-1/2 mt-4 lg:mt-0">
-                <h2 class="title-font font-semibold text-gray-900 tracking-widest text-xs">
+              <div className="lg:w-1/2 mt-4 lg:mt-0">
+                <h2 className="title-font font-semibold text-gray-900 tracking-widest text-xs">
                   EMAIL
                 </h2>
-                <a class="text-indigo-500 leading-relaxed">example@email.com</a>
-                <h2 class="title-font font-semibold text-gray-900 tracking-widest text-xs mt-4">
+                <a className="text-indigo-500 leading-relaxed">example@email.com</a>
+                <h2 className="title-font font-semibold text-gray-900 tracking-widest text-xs mt-4">
                   PHONE
                 </h2>
-                <p class="leading-relaxed">123-456-7890</p>
-                <button class=" mt-2 text-white bg-indigo-500 border-0 py-1 px-2 focus:outline-none hover:bg-indigo-600 rounded text-sm">
-                Get Directions 
-          </button>
+                <p className="leading-relaxed">123-456-7890</p>
+                <button className=" mt-2 text-white bg-indigo-500 border-0 py-1 px-2 focus:outline-none hover:bg-indigo-600 rounded text-sm">
+                  Get Directions
+                </button>
               </div>
-              
+
             </div>
           </div>
-          
+
         </div>
       </section>
-      <section class="text-gray-600 body-font">
-        <div class="container mx-auto flex px-5 py-20 md:flex-row flex-col items-center">
-          <div class="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 ">
-            <h1 class="title-font sm:text-4xl text-3xl mb-4 font-medium text-gray-900">
+      <section className="text-gray-600 body-font">
+        <div className="container mx-auto flex px-5 py-20 md:flex-row flex-col items-center">
+          <div className="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 ">
+            <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-gray-900">
               Make a Quick Enquiry
             </h1>
-            <p class="mb-8 leading-relaxed">
+            <p className="mb-8 leading-relaxed">
               Fill in your details and we will get in touch with you.
             </p>
-            <div class="w-full md:justify-start justify-center items-end">
+            <div className="w-full md:justify-start justify-center items-end">
               {/* <div className="lg:w-1/3 md:w-1/2 bg-white flex flex-col md:ml-auto w-full md:py-8 mt-8 md:mt-0"> */}
 
               <div className="relative mb-4">
@@ -1613,9 +1613,9 @@ function App() {
               </button>
             </div>
           </div>
-          <div class="">
+          <div className="">
             <img
-              class="object-cover object-center rounded"
+              className="object-cover object-center rounded"
               alt="hero"
               height="200px"
               src="https://altiushospital.com/wp-content/uploads/2021/12/11.webp"
@@ -1623,13 +1623,13 @@ function App() {
           </div>
         </div>
       </section>
-      <section class="text-gray-600 body-font">
-        <div class="container px-5 py-15 mx-auto flex flex-col">
-          <div class="lg:w-4/6 mx-auto">
-            <div class="flex flex-col sm:flex-row mt-10">
-              <div class="sm:w-1/3 text-center sm:pr-8 sm:py-8">
+      <section className="text-gray-600 body-font">
+        <div className="container px-5 py-15 mx-auto flex flex-col">
+          <div className="lg:w-4/6 mx-auto">
+            <div className="flex flex-col sm:flex-row mt-10">
+              <div className="sm:w-1/3 text-center sm:pr-8 sm:py-8">
                 <div
-                  class="w-30 inline-flex items-center justify-center text-gray-400"
+                  className="w-30 inline-flex items-center justify-center text-gray-400"
                   style={{ height: "25rem" }}
                 >
                   <img
@@ -1638,11 +1638,11 @@ function App() {
                   />
                 </div>
               </div>
-              <div class="sm:w-2/3 sm:pl-8 sm:py-8 sm:border-l border-gray-200 sm:border-t-0 border-t mt-4 pt-4 sm:mt-0 text-center sm:text-left">
-                <h1 class="text-3xl font-medium title-font mb-3 text-grey-900">
+              <div className="sm:w-2/3 sm:pl-8 sm:py-8 sm:border-l border-gray-200 sm:border-t-0 border-t mt-4 pt-4 sm:mt-0 text-center sm:text-left">
+                <h1 className="text-3xl font-medium title-font mb-3 text-grey-900">
                   About Us
                 </h1>
-                <p class="leading-relaxed text-lg mb-4">
+                <p className="leading-relaxed text-lg mb-4">
                   Altius Hospitals, Bangalore, has evolved as a leader in the
                   healthcare system because of its integrated model that
                   combines all services under one roof. From Cardiology and 24/7
@@ -1658,7 +1658,7 @@ function App() {
                   The patients can now avail cardiac care with our
                   state-of-the-art GE – IGS 520 cath lab.
                 </p>
-                <a class="text-indigo-500 inline-flex items-center">
+                <a className="text-indigo-500 inline-flex items-center">
                   Contact Us
                   <svg
                     fill="none"
@@ -1666,7 +1666,7 @@ function App() {
                     stroke-linecap="round"
                     stroke-linejoin="round"
                     stroke-width="2"
-                    class="w-4 h-4 ml-2"
+                    className="w-4 h-4 ml-2"
                     viewBox="0 0 24 24"
                   >
                     <path d="M5 12h14M12 5l7 7-7 7"></path>
@@ -1677,71 +1677,74 @@ function App() {
           </div>
         </div>
       </section>
-      <footer class="text-gray-600 body-font">
-        <div class="container px-5 py-24 mx-auto flex md:items-center lg:items-start md:flex-row md:flex-nowrap flex-wrap flex-col">
-          <div class="w-64 flex-shrink-0 md:mx-0 mx-auto text-center md:text-left">
-            <a class="flex title-font font-medium items-center md:justify-start justify-center text-gray-900">
-              
+      <footer className="text-gray-600 body-font">
+        <div className="container px-5 py-24 mx-auto flex md:items-center lg:items-start md:flex-row md:flex-nowrap flex-wrap flex-col">
+          <div className="w-64 flex-shrink-0 md:mx-0 mx-auto text-center md:text-left">
+            <a className="flex title-font font-medium items-center md:justify-start justify-center text-gray-900">
+
               <img
-                    src="https://altiushospital.com/wp-content/uploads/2023/03/a-2.png"
-                    alt="about"
-                  />
+                src="https://altiushospital.com/wp-content/uploads/2023/03/a-2.png"
+                alt="about"
+              />
             </a>
+            <p className="mt-2 text-sm text-gray-500">
+              Air plant banjo lyft occupy retro adaptogen indego
+            </p>
           </div>
-          <div class="flex-grow flex flex-wrap md:pl-20 -mb-10 md:mt-0 mt-10 md:text-left ">
-            
-            <div class="lg:w-2/4 md:w-1/2 w-full px-4">
-              <h2 class="title-font font-medium text-gray-900 tracking-widest text-sm mb-3">
+          <div className="flex-grow flex flex-wrap md:pl-20 -mb-10 md:mt-0 mt-10 md:text-left ">
+
+            <div className="lg:w-2/4 md:w-1/2 w-full px-4">
+              <h2 className="title-font font-medium text-gray-900 tracking-widest text-sm mb-3">
                 Head Office
               </h2>
-              <nav class="list-none mb-10">
+              <nav className="list-none mb-10">
                 <li>
-                  <a class="text-gray-600 hover:text-gray-800"># 6/63, 59th Cross, 4th Block, Rajajinagar Entrance, <br/>Opp. MEI Polytechnic, Near Ram Mandir, Bengaluru - <br/>560 010
-</a>
+                  <a className="text-gray-600 hover:text-gray-800"># 6/63, 59th Cross, 4th Block, Rajajinagar Entrance, <br />Opp. MEI Polytechnic, Near Ram Mandir, Bengaluru - <br />560 010
+                  </a>
                 </li>
                 <li>
-                  <a class="text-gray-600 hover:text-gray-800">+91-8882799799</a>
+                  <a className="text-gray-600 hover:text-gray-800">+91-8882799799</a>
                 </li>
                 <li>
-                  <a class="text-gray-600 hover:text-gray-800">COVID - 19 FREE</a>
+                  <a className="text-gray-600 hover:text-gray-800">COVID - 19 FREE</a>
                 </li>
-                
+
               </nav>
             </div>
-            <div class="lg:w-2/4 md:w-1/2 w-full px-4 ">
-              <h2 class="title-font font-medium text-gray-900 tracking-widest text-sm mb-3">
-              Recent Blog
+            <div className="lg:w-2/4 md:w-1/2 w-full px-4 ">
+              <h2 className="title-font font-medium text-gray-900 tracking-widest text-sm mb-3">
+                Recent Blog
               </h2>
-              <nav class="list-none mb-10">
+              <nav className="list-none mb-10">
                 <li>
-                  <a class="text-gray-600 hover:text-gray-800">
+                  <a className="text-gray-600 hover:text-gray-800">
                     <div className="flex">
-                    <img src="https://altiushospital.com/wp-content/uploads/2023/05/IUI-vs-IVF-Blog-Thumbnail.png" alt="rb-1" width="150px" height="150px"/>
-                    
-                    <div className="ml-2">
-                      <h1>IUI vs. IVF: Which is right</h1>
-                      <h1>23 May 2023</h1>
-                    </div>
+                      <img src="https://altiushospital.com/wp-content/uploads/2023/05/IUI-vs-IVF-Blog-Thumbnail.png" alt="rb-1" width="150px" height="150px" />
+
+                      <div className="ml-2">
+                        <h1>IUI vs. IVF: Which is right</h1>
+                        <h1>23 May 2023</h1>
+                      </div>
                     </div>
                   </a>
                 </li>
                 <li>
-                <a class="text-gray-600 hover:text-gray-800">
+                  <a className="text-gray-600 hover:text-gray-800">
                     <div className="flex">
-                    <img src="https://altiushospital.com/wp-content/uploads/2023/05/Preparing-for-IUI-Treatment-Blog-Thumbnail-1.png" alt="rb-2" width="150px"/>
-                    <div className="ml-2">
-                      <h1>Preparing for IUI Treatement: Tips for success</h1>
-                      <h1>23 May 2023</h1>
-                    </div>
+                      <img src="https://altiushospital.com/wp-content/uploads/2023/05/Preparing-for-IUI-Treatment-Blog-Thumbnail-1.png" alt="rb-2" width="150px" />
+                      <div className="ml-2">
+                        <h1>Preparing for IUI Treatement: Tips for success</h1>
+                        <h1>23 May 2023</h1>
+                      </div>
                     </div>
                   </a>
                 </li>
-                
+
               </nav>
             </div>
           </div>
         </div>
-        
+
       </footer>
     </>
   );
